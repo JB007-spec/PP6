@@ -97,14 +97,14 @@ print_escape
 Place your completed `print.sh` in `solutions/` and commit. Then link it here:
 
 ```
-[print.sh](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.sh)
+[print.sh](https://github.com/JB007-spec/PP6/blob/master/solutions/print.sh)
 ```
 
 #### Reflection Questions
 
-1. **What is the difference between `printf` and `echo` in Bash?**
-2. **What is the role of `~/.bashrc` in your shell environment?**
-3. **Explain the difference between sourcing (`source ~/.bashrc`) and executing (`./print.sh`).**
+1. **What is the difference between `printf` and `echo` in Bash?** prinf gives an readable output and echo just makes an output
+2. **What is the role of `~/.bashrc` in your shell environment?** its the file where the shell configs are stored
+3. **Explain the difference between sourcing (`source ~/.bashrc`) and executing (`./print.sh`).** .bashrc is outputting after each shell start and .print.sh is just beeing executed when asked
 
 ---
 
@@ -154,7 +154,7 @@ _start:
 **Solution Reference**
 
 ```
-[print.s](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.s)
+[print.s](https://github.com/JB007-spec/PP6/blob/master/solutions/print.s)
 ```
 
 #### Reflection Questions
@@ -194,7 +194,7 @@ int main(void) {
 **Solution Reference**
 
 ```
-[print.c](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.c)
+[print.c](https://github.com/JB007-spec/PP6/blob/master/solutions/print.c)
 ```
 
 #### Reflection Questions
@@ -236,7 +236,7 @@ if __name__ == "__main__":
 **Solution Reference**
 
 ```
-[print.py](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.py)
+[print.py](https://github.com/JB007-spec/PP6/blob/master/solutions/print.py)
 ```
 
 #### Reflection Questions
